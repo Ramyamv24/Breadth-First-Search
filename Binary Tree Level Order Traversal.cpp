@@ -51,12 +51,7 @@ public:
 };
 
 int main() {
-    // Creating the tree:
-    //       1
-    //      / \
-    //     2   3
-    //    / \   \
-    //   4   5   6
+    
 
     TreeNode* root = new TreeNode(1);
 
